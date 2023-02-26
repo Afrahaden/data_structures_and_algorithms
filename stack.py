@@ -1,3 +1,9 @@
+"""
+This code defines a class called "Stack" that implements
+a stack data structure using a list to store the elements.
+"""
+
+
 class Stack:
     def __init__(self):
         self.items = []
